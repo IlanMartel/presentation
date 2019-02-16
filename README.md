@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenue sur mon GitHub
 
-You can use the [editor on GitHub](https://github.com/IlanMartel/presentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Vous apprendez à découvrir mon parcours, mes compétences mais également ma personnalité !
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
