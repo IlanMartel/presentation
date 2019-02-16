@@ -1,0 +1,113 @@
+body{
+    background:#f2f2f2;
+    
+}
+header{
+    background-image: url("https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg");
+    height: 150px;
+    padding: 0px;
+    
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #ff3333;
+}
+
+div a {
+    display:contents;
+    color: Dark;
+    text-decoration: none;
+    padding: 4px;
+    text-align: left;
+}
+div a:hover{
+    background-color: red;
+}
+.links{
+    font-family: Arial;
+    padding: 2px;
+    color: dark;
+    text-align: left;
+}
+.links p{
+    display: block;
+}
+.links a{
+    text-decoration: none;
+}
+.links a:hover{
+    color: red;
+}
+.leftColumn{
+    float: left;
+    width: 60%;
+}
+.rightColumn{
+    float: right;
+    width: 30%;
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+img.Facebook {
+  width: 25px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 2px 4px;
+}
+img.Linkedin {
+  width: 25px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 2px 4px;
+}
+img.Email {
+  width: 25px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 2px 4px;
+}
+img.Phone {
+  width: 25px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 2px 4px;
+}
+
+img {width: 100%}
+/*.footer{
+    bottom:0px;
+    position: absolute;
+    background-color: darkgray;
+}*/
+.footer{
+    bottom: 0px;
+}
+div.picture {
+    padding: 5px;
+    text-align: center;
+    background: #ddd;
+}
