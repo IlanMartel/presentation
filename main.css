@@ -8,6 +8,11 @@ header{
     width: 100%;
     
 }
+.test{
+    background-image: url("https://images.readwrite.com/wp-content/uploads/2018/04/coding-825x500.jpg");
+    height: 150px;
+    width: 100%;
+}
 
 ul {
   list-style-type: none;
